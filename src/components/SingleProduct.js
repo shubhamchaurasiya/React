@@ -31,6 +31,7 @@ const SingleProduct = () => {
                     </div>
                 </div>
             </>
+            
         )
     }
 
